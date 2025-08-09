@@ -1,7 +1,7 @@
 # GoLangCheatSheet
 This repository has basic code to get started with Go lang. 
 
-### This rep has examples related to following topic :
+###  This rep has examples related to following topic :
 
 <ul>
   <li>Primitive data types: int, string, float, double</li>
